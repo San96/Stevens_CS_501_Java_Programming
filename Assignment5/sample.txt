@@ -1,0 +1,4 @@
+JFileChooser is a class of swing library in Java. It is used to select a file, folder by a user. 
+It provides a mechanism to choose a file. 
+Application users can select & save files through this mechanism. File selection takes place in a new window dialog using JFileChooser. showOpenDialog() of JFileChooser method prompt option to user for the selection of file/folder at the specified path. JFileChooser inherits the JComponent. 
+JComponent is also a base-level component of the swing library.
